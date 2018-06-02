@@ -1,0 +1,51 @@
+# Titles
+
+title: "Your Cool WebSite Title"
+top_left_title: "Your Cool Website"
+top_button_page_scroll_title: "Check Us Out"
+
+# Navigation Bar
+
+navigation_four_icons_text: "Four Icons"
+navigation_showcase_text: "Showcase"
+navigation_contactus_text: "Call Me"
+
+# More Details Section
+
+moredetails_section_title: "This Is An Amazing Product"
+moredetails_section_description: "Your whole website is actually one text file configuration, isn't that just wonderful, you can backup your whole web site with a simple text file, this is just genius! You can switch templates and just upload this single text file to change template, awesome!"
+moredetails_section_button_title: "Google That Shit"
+
+# Showcase Section
+
+multicolumn_section_title: "So Fucking Creative"
+multicolumn_section_first_column_title: "This Fucking Template"
+multicolumn_section_first_column_description: "Guaranteed to use the same fucking template that every other bootstrap website uses, downloaded straight from The Web"
+multicolumn_section_second_column_title: "This Set of Four Icons"
+multicolumn_section_second_column_description: "Look at this cool set of four icons describing different things about us! We use four, because it's the default."
+multicolumn_section_third_column_title: "Lots of effort"
+multicolumn_section_third_column_description: "We even changed some of the icons! We take the extra effort to make our designs truly original."
+multicolumn_section_forth_column_title: "Made with Love"
+multicolumn_section_forth_column_description: "Because nothing says hard work and talent like editing a few lines of text."
+
+# Social
+
+contact_us_title: "Contact Us"
+email: holly@shit.com
+twitter: https://twitter.com/tomerbd1
+facebook: https://www.facebook.com/tomer.bendavid.73
+github: https://github.com/tomer-ben-david
+googleplus: https://plus.google.com/+TomerBenDavid
+description: "Your whole website is actually one text file, isn't that just wonderful, you can backup your whole web site with a simple text file, this is just genius! You can switch templates and just upload this single text file to change template, awesome!"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+tomersource: https://github.com/petehouston/the-only-bootstrap-page
